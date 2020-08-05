@@ -8,6 +8,8 @@ npm i
 npm start -- AAPL,FLWS,ABBV,ATVI,ADBE,AKAM,BABA
 ```
 
+![DEMO](demo.gif)
+
 ## Token
 Положить в корень файлик `.env` и прописать там токен:
 ```
